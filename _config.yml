@@ -11,7 +11,7 @@ title                    : "Matthew Matl"
 title_separator          : "-"
 name                     : &name "Matthew Matl"
 description              : &description "personal description"
-url                      : https://mmatl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://localhost:4000" #https://mmatl.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmatl/mmatl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -46,6 +46,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+future: true
 
 # SEO Related
 google_site_verification :
@@ -176,10 +177,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
