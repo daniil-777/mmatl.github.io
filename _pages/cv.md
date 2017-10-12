@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ------
-* Current Ph.D student in Robotics and Control, UC Berkeley, 2021 (expected)
+* Current EECS Ph.D student in Robotics and Control, UC Berkeley, 2021 (expected)
+  * Winner of National Defense Science and Engineering Graduate Fellowship (NDSEG), 2017-2021
 * B.S.E in Electrical Engineering, Princeton University, 2016
   * GPA: 3.97
   * Minor in Computer Science
