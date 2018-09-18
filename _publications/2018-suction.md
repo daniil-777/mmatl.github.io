@@ -3,9 +3,10 @@ title: 'Dex-Net 3.0: Computing Robust Robot Suction Grasp Targets using a New An
 authors: 'Jeffrey Mahler, Matthew Matl, Xinyu Liu, Albert Li, David Gealy, Ken Goldberg'
 venue: 'IEEE International Conference on Robotics and Automation (IRCA)'
 date: 2018-05-28
-category: 'submitted'
+category: 'published'
 pdf: '2018-suction.pdf'
 teaser: '2018-suction.png'
+bibtex: '2016-suction.bib'
 supplement: '2018-suction-supplement.pdf'
 extended: '2018-suction-extended.pdf'
 permalink: /publication/2018-suction
