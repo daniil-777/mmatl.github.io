@@ -2,7 +2,7 @@
 title: 'Segmenting Unknown 3D Objects from Real Depth Images using Mask R-CNN Trained on Synthetic Point Clouds'
 authors: 'Michael Danielczuk, Matthew Matl, Saurabh Gupta, Andrew Li, Andrew Lee, Jeffrey Mahler, Ken Goldberg'
 venue: 'IEEE International Conference on Robotics and Automation (IRCA)'
-date: 2018-09-15
+date: 2019-05-25
 category: 'submitted'
 pdf: '2018-sdmaskrcnn.pdf'
 teaser: '2018-sdmaskrcnn.png'
