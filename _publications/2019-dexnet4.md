@@ -3,9 +3,9 @@ title: 'Learning Ambidextrous Robot Grasping Policies'
 authors: 'Jeffrey Mahler, Matthew Matl, Vishal Satish, Michael Danielczuk, Bill DeRose, Stephen McKinley, Ken Goldberg'
 venue: 'Science Robotics'
 date: 2019-01-16
-category: 'accepted'
+category: 'published'
 pdf: '2019-dexnet4.pdf'
-teaser: '2019-dexnet4.png'
+teaser: '2019-dexnet4.jpg'
 bibtex: '2019-dexnet4.bib'
 permalink: /publication/2019-dexnet4
 collection: publications
