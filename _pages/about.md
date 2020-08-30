@@ -13,4 +13,4 @@ I am advised by Professor [Ken Goldberg](http://goldberg.berkeley.edu/) of the [
 my research primarily focuses on robotic manipulation.
 Specifically, I am interested in using fast simulation techniques and geometric models to teach robots to perform complex manipulation tasks in real-world environments, with an eye towards applications such as industrial bin-picking, logistics, and flexible manufacturing and assembly systems.
 
-I attended Princeton University for my undergraduate education, where I received a BSE in Electrical Engineering, and I am married to the lovely [Carolyn Matl](https://carolynlc.github.io), who is also a robotics researcher at UC Berkeley.
+I attended Princeton University for my undergraduate education, where I received a BSE in Electrical Engineering, and I am married to the lovely [Carolyn Matl](https://carolyncmatl.github.io), who is also a robotics researcher at UC Berkeley.
